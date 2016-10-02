@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
-  this is the main and only activity of this program,
+  this is the main and only activity of this program.
   it sets up the recyclerview in it and adds functionality to the button and edit text within it.
  */
 
