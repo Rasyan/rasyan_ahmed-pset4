@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">rasyan_ahmed-pset4</string>
+    <string name="add">add</string>
+    <string name="add_to_list">add to list</string>
+    <string name="my_todo_list">My Todo List</string>
+    <string name="long_click">Long click to delete an item</string>
+</resources>
