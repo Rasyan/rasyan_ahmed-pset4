@@ -90,6 +90,9 @@ public class MainActivity extends AppCompatActivity {
     // sets up the recyclerview and connects the layoutmanager and adapter to it.
     private void setUpRecyclerView() {
         mRecyclerView = (RecyclerView) findViewById(R.id.list);
+        // this line below adds a divider between the recyclerView items,
+        // requires a dependency.
+        // source : https://github.com/yqritc/RecyclerView-FlexibleDivider
         mRecyclerView.addItemDecoration(new HorizontalDividerItemDecoration.Builder(this).build());
 
 
